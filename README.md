@@ -22,7 +22,7 @@ Padding atas bawah 80px, kiri kanan 20px
 Teks rata tengah
 Untuk elemen <h1> dalam header:
 Ukuran font 3rem
-Tebal font 800
+Tebal font 800 
 Margin bawah 15px
 Untuk elemen <p> dalam header:
 Ukuran font 1.2rem
